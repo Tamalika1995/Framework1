@@ -1,0 +1,6 @@
+
+
+====== WebDriver manager ======
+Current google-chrome version is 89.0.4389
+Get LATEST driver version for 89.0.4389
+Driver [C:\Users\614785.old\.wdm\drivers\chromedriver\win32\89.0.4389.23\chromedriver.exe] found in cache
